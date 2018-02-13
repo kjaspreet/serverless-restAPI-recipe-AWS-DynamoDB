@@ -1,5 +1,5 @@
 GitHub Link:
-
+https://github.com/kjaspreet/serverless-restAPI-recipe-AWS-DynamoDB
 
 Recipe API: Using this restAPI, user can create/insert new recipe in the database (DynamoDB), update the existing recipe, delete the existing recipe, list all the entries/recipes, get single recipe by using id.
 
